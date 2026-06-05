@@ -4,7 +4,7 @@ A machine learning web app that predicts house prices
 based on key features.
 
 ## 🔗 Live Demo
-[Click here to try the app](#)  
+[Click here to try the app](https://house-price-prediction-66rw2b5vlmof7rxguappra.streamlit.app/)  
 
 ## 📊 Models Used
 | Model | R2 Score |
